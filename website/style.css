@@ -1,0 +1,25 @@
+body{ margin: 50px;
+      padding: 0%;
+      font-family: montserrat;
+      max-width: fit-content;
+      height: 100vh;
+      
+
+}
+
+a{text-decoration: none;}
+
+
+
+
+h3 {
+    color: #F2910A;
+ }
+
+
+ main{display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+
+ }
